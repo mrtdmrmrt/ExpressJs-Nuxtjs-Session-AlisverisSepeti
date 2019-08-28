@@ -1,4 +1,4 @@
-# 9-express-js-kullanarak-session-ile-alisveris-sepeti-yapimi
+# express-js-kullanarak-session-ile-alisveris-sepeti-yapimi
 
 > My neat Nuxt.js project
 
